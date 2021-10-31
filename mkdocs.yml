@@ -46,6 +46,15 @@ theme:
     # Pick up a logo from https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
     logo: material/bee
 
+# Customization
+extra:
+  social:
+    # Pick up a logo from https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+    - icon: fontawesome/brands/github
+      link: https://github.com/littlebee1024
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/littlebee1024
+
 # Extensions
 markdown_extensions:
   # Show contents of a markdown file
