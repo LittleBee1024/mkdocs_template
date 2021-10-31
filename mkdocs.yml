@@ -77,7 +77,7 @@ extra_javascript:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: README.md
   - Book Notes:
     - markdown/README.md
     - mkdocs_enhance/README.md
