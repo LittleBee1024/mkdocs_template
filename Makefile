@@ -1,6 +1,6 @@
-all: help
+all: serve
 
-.PHONY: help serve build
+.PHONY: help serve build clean
 
 help:
 	@echo "targets:"
@@ -12,3 +12,6 @@ serve:
 
 build:
 	mkdocs build
+
+clean:
+	@rm -rf ./site
