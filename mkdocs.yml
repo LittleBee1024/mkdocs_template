@@ -43,9 +43,12 @@ markdown_extensions:
   - pymdownx.tilde
   # Enable caret character(^) for insert and superscript
   - pymdownx.caret
-  # Enable LaTeX math equations
+  # Enable LaTeX math equations, which requires extra js below
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

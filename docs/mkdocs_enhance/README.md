@@ -1,9 +1,9 @@
-# Enhancement of MkDocs
+# MkDocs Enhancement
 
 ## Admonitions
 Refer to the [wiki](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#admonition-icons) for the details.
 
-### Examples
+### Example
 * Note
 
 !!! note "Note Title"
@@ -64,4 +64,18 @@ $$
 \sqrt{ab}
 $$
 
+## Emoji
+Refer to the [wiki](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/) for the details.
+
+### Example
+* :smile:
+* :wink:
+* :cry:
+* :laughing:
+* :yum:
+
+#### Material Icons
+* :material-account-circle:
+* :fontawesome-regular-laugh-wink:
+* :octicons-repo-push-16:
 
