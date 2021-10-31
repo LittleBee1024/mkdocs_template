@@ -23,9 +23,27 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+  palette:
+    # default scheme is light mode, can change to "slate" for dark mode
+    - scheme: default
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    # Pick up a font from https://fonts.google.com/
+    text: Roboto
+    code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    # Pick a logo at https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+    # Pick up a logo from https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
     logo: material/bee
 
 # Extensions
