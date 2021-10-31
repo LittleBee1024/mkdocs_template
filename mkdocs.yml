@@ -23,6 +23,10 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+  favicon: assets/favicon.png
+  icon:
+    # Pick a logo at https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+    logo: material/bee
 
 # Extensions
 markdown_extensions:
@@ -59,3 +63,4 @@ nav:
   - Book Notes:
     - markdown/README.md
     - mkdocs_enhance/README.md
+    - localization/README.md
