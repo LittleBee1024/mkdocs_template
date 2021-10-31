@@ -79,3 +79,18 @@ Refer to the [wiki](https://squidfunk.github.io/mkdocs-material/reference/icons-
 * :fontawesome-regular-laugh-wink:
 * :octicons-repo-push-16:
 
+## Button
+Refer to the [wiki](https://squidfunk.github.io/mkdocs-material/reference/buttons/) for the details.
+
+### Example
+[Last Page](../){ .md-button }
+
+[localization](../localization){ .md-button }
+
+[markdown](../markdown){ .md-button }
+
+[Admonitions](#admonitions){ .md-button .md-button--primary }
+
+[Example](#example){ .md-button .md-button--primary }
+
+[API :fontawesome-solid-external-link-alt:](#){ .md-button .md-button--primary }
