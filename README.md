@@ -1,3 +1,7 @@
+<figure markdown>
+  ![logo](docs/home/logo.png){ width="200" }
+</figure>
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org) and [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
