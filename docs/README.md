@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="home/logo.png" />
+  <img src="home/logo.png" onerror="this.src='docs/home/logo.png'" />
 </p>
 
 # Welcome to MkDocs
