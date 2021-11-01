@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/LittleBee1024/mkdocs_template/actions"><img
-    src="https://github.com/squidfunk/mkdocs-material/workflows/build/badge.svg?branch=master"
+    src="https://github.com/littlebee1024/mkdocs_template/workflows/build/badge.svg?branch=main"
     alt="Build"
   /></a>
   <a href="https://github.com/LittleBee1024/mkdocs_template.git"><img
