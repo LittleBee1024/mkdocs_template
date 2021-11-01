@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/home/logo.png" />
+  <img src="home/logo.png" />
 </p>
 
 # Welcome to MkDocs
