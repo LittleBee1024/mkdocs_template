@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="home/logo.png" onerror="this.src='docs/home/logo.png'" />
-</p>
+<h1 align="center">
+  <img alt="LittleBee" src="home/logo.png" width="200">
+</h1>
 
 # Welcome to MkDocs
 
