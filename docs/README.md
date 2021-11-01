@@ -1,6 +1,6 @@
-<figure markdown>
-  ![logo](home/logo.png){ width="200" }
-</figure>
+<p align="center">
+  <img src="home/logo.png" />
+</p>
 
 # Welcome to MkDocs
 
